@@ -5,7 +5,7 @@ session_start();
 <html>
 
   <head>
-    <title> Home | Tree Plantation  </title>
+    <title> Home | Tree Plantation!!  </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
